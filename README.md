@@ -18,9 +18,10 @@ Visual Studio
 ### Installing
 
 ```
-1. On the main Project goto foler "DbScript" Copy and paste the Script in SQL query window.
-2. Change the Connection String in the Web.config
-3. Deploy the Project Folder to IIS
+1. Create empty in SQL server by the name "LunchActually".
+2. On the main Project goto foler "DbScript" , open script.sql and Copy and paste the Script in SQL query window.
+3. Change the Connection String in the Web.config
+4. Deploy the Project Folder to IIS
 ```
 
 ## Running the tests
